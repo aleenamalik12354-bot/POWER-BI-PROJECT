@@ -1,0 +1,11 @@
+# Ignore everything outside this directory
+/*
+!/Downloads/
+/Downloads/*
+!/Downloads/dashboard/
+/Downloads/dashboard/*
+
+# Include only specific files in dashboard
+!dashboard.pbix
+!.gitignore
+*.lnk
