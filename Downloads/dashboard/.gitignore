@@ -8,4 +8,5 @@
 # Include only specific files in dashboard
 !dashboard.pbix
 !.gitignore
+!README.md
 *.lnk
